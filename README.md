@@ -8,7 +8,7 @@ My current stack is HTML, CSS (SASS), JavaScript (ES6+) currently learning Vue.J
 - Oxivia Logistics -> https://oxivia.pl/ (UI/UX + Coding [HTML, CSS, JavaScript, WP (ACF)])
 - CITPITPL Sp. Z O. O. -> https://citpitpl.pl/ (UI/UX + Coding [HTML, CSS, JavaScript, WP (ACF)])
 - Pogotowie Dietetyczne -> https://www.pogotowie-dietetyczne.pl/ (Coding [HTML, CSS, JS, WP (ACF)])
-- CapuccinoCafe -> https://capuccinocafe.pl/ (Coding [Editor + HTML/CSS/JS], WooCommerce Module)
+- CapuccinoCafe -> https://capuccinocafe.pl/ (Coding [Editor + HTML/CSS/JS], WooCommerce Module)]
 
 <!--
 **Nigtellios/Nigtellios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
