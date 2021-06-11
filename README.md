@@ -6,6 +6,7 @@ My current stack is HTML, CSS (SASS), JavaScript (ES6+) currently learning Vue J
 
 I've been working with many amazing people from whole Europe in these years, here you can check few of my favourite projects:
 
+- Wypocznij -> https://wypocznij.com/ (UI/UX + Coding [HTML, CSS, JS, WP (ACF)])
 - Mila Logistics -> https://milalogistics.pl/ (UI/UX + Coding [JavaScript, PHP (form)])
 - Oxivia Logistics -> https://oxivia.pl/ (UI/UX + Coding [HTML, CSS, JavaScript, WP (ACF)])
 - CITPITPL Sp. Z O. O. -> https://citpitpl.pl/ (UI/UX + Coding [HTML, CSS, JavaScript, WP (ACF)])
