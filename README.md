@@ -11,6 +11,7 @@ I've been working with many amazing people from whole Europe in these years, her
 - Mila Logistics -> https://milalogistics.pl/ (UI/UX + Coding [JavaScript, PHP (form)])
 - Oxivia Logistics -> https://oxivia.pl/ (UI/UX + Coding [HTML, CSS, JavaScript, WP (ACF)])
 - CITPITPL Sp. Z O. O. -> https://citpitpl.pl/ (UI/UX + Coding [HTML, CSS, JavaScript, WP (ACF)])
+- Karolina Seeger -> https://karolina-seeger.pl/ (Coding - Full Page Rebuild, ACF PRO, BS5)
 - Pogotowie Dietetyczne -> https://www.pogotowie-dietetyczne.pl/ (Coding [HTML, CSS, JS, WP (ACF)])
 - CapuccinoCafe -> https://capuccinocafe.pl/ (Coding [Editor + HTML/CSS/JS], WooCommerce Module)]
 
