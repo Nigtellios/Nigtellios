@@ -1,6 +1,6 @@
 # Hi
 
-Readmes are boring. I'm a JavaScript developer with many years of experience in the field of web development, and now even web-based game engines. I'm glad to help, if you want - contact me!
+Readmes are boring. I'm a JavaScript developer with many years of experience in the field of web development, and now even web-based game engines. In the meantime, I'm learning electronics and embedded systems (to create the perfect LED lamp for my fiance). I'm glad to help if you want - contact me!
 
 ## Technologies I'm using:
 
