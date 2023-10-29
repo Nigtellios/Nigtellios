@@ -7,12 +7,19 @@ Readmes are boring. I'm a JavaScript developer with many years of experience in 
 - TypeScript/JavaScript
 - Vue.js
 - Vuex
-- SCSS/Tailwind
+- CSS
+  - SCSS
+  - Tailwind  
+- HTML
+  - Mustache
+  - Nunjucks
+  - Pug
 
 ### **Back-End:**
 - PostgreSQL
 - Node.js
-- Bun.js/Deno
+  - Bun.js
+  - Deno
 - Knex.js
 - Express.js
 
@@ -22,6 +29,13 @@ Readmes are boring. I'm a JavaScript developer with many years of experience in 
 - gl-matrix
 - twgl.js
 - Matter.js
+
+#### Bundlers:
+- Parcel
+- Webpack
+
+### Task-runners:
+- GULP
 
 See you in the future!
 
