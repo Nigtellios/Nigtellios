@@ -1,23 +1,23 @@
-### Hi
+# Hi
 
 Readmes are boring. I'm a JavaScript developer with many years of experience in the field of web development, and now even web-based game engines. I'm glad to help, if you want - contact me!
 
 ## Technologies I'm using:
-**Front-End:**
+### **Front-End:**
 - TypeScript/JavaScript
 - Vue.js
 - Vuex
 - SCSS/Tailwind
 
-**Back-End:**
+### **Back-End:**
 - PostgreSQL
 - Node.js
 - Bun.js/Deno
 - Knex.js
 - Express.js
 
-**Others:**
-### Mathematics/Physics libraries for JS enviornment such as:
+### **Others:**
+#### Mathematics/Physics libraries for JS enviornment such as:
 - Tween.js
 - gl-matrix
 - twgl.js
