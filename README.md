@@ -17,11 +17,11 @@ Readmes are boring. I'm a JavaScript developer with many years of experience in 
 - Express.js
 
 **Others:**
-- Mathematics/Physics libraries for JS enviornment such as:
-  - Tween.js
-  - gl-matrix
-  - twgl.js
-  - Matter.js
+### Mathematics/Physics libraries for JS enviornment such as:
+- Tween.js
+- gl-matrix
+- twgl.js
+- Matter.js
 
 See you in the future!
 
