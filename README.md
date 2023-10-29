@@ -6,7 +6,7 @@ Readmes are boring. I'm a JavaScript developer with many years of experience in 
 
 | **Front-end** | Back-End        | Maths/Physics | Others  |
 | ------------- | --------------- | ------------- | ------  |
-| TypeScript    | PostgreSQL      | Tween.js      | Webpack |
+| ![alt text]([http://url/to/img.png](https://cdn.iconscout.com/icon/free/png-256/free-typescript-3629713-3030764.png)) TypeScript    | PostgreSQL      | Tween.js      | Webpack |
 | JavaScript    | Node.js         | gl-matrix     | Parcel  |
 | Vue.js        | Bun.js          | twgl.js       | GULP    |
 | Vuex          | Deno            | Matter.js     | NPX     |
