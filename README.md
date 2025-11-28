@@ -1,6 +1,20 @@
 # Hi
 
-Readmes are boring. I'm a JavaScript developer with many years of experience in the field of web development, and now even web-based game engines. In the meantime, I'm learning electronics and embedded systems (to create the perfect LED lamp for my fiance). I'm glad to help if you want - contact me!
+I'm a JavaScript developer with many years of experience in the field of web development, and even web-based game engines. In the meantime, I'm learning Rust and K8s. I'm glad to help if you want - contact me!
+
+## Recent projects:
+- **Juzala Radca** [https://juzalaradca.pl/] - Vue.JS | Website, Webserver, visual identification.
+- **CITPITPL** [https://citpitpl.pl/] - Website, webserver, visual identification, hardware, infrastructure & maintenance.
+- **First & Second iteration of CapuccinoCafe** [https://capuccinocafe.pl/] - Website, webserver, e-commerce.
+- **Wypocznij.com** [https://wypocznij.com/] - Website, webserver.
+- **First iteration of Oxivia** [https://oxivia.pl/] - Website, webserver.
+
+**In about 10 years I did a lot of different projects:**
+- several business websites
+- few applications in Vue.JS and React
+- several E-commerce shops on WooCommerce and PrestaShop
+- several games in WebGL2 in browser environment
+...and many more, obviously done during commercial experience
 
 ## Technologies I'm using:
 
